@@ -1,0 +1,53 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    background-image: url("../images/welcome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: silver;
+    border-color: silver;
+    border-style: double;
+    border-width: 2px;
+    line-height: 55px;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+    border-color: silver;
+    border-style: double;
+    border-width: 2px;
+    line-height: 55px;
+    background-color: black;
+
+
+}
+
+.fighterdeco {
+    background-image: url("../images/fightername.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    border-style: double;
+    border-width: 2px;
+    border-color: black;
+    text-align: center;
+
+}
+
+.fighters {
+    text-align: center;
+}
+
+.action {
+    text-align: center;
+}
+
+.btn {
+    margin-bottom: 7px;
+}
